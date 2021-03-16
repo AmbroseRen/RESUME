@@ -6,7 +6,7 @@
   <a href='https://www.npmjs.com/package/@fe_korey/resume'><img src='https://img.shields.io/npm/v/@fe_korey/resume' alt='npm (scoped)' /></a>
 </p>
 
-[English](./README.MD) | 中文
+[English](./README.md) | 中文
 
 有任何疑问和建议请[点击此处](https://github.com/AmbroseRen/RESUME/issues)，互相学习，共同进步！
 
