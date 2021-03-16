@@ -55,7 +55,7 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: Cecilapp/GitHub-Pages-deploy@2.0.0  
         env:
-          EMAIL: arnaud@ligny.org               # 你的Github邮箱
+          EMAIL: ambroserencn@gmail.com         # 你的Github邮箱
           GH_TOKEN: ${{ secrets.ACCESS_TOKEN }} # 看下文描述
           BUILD_DIR: dist/  
 
