@@ -41,11 +41,11 @@ export default {
         }
       ]
     },
-    footer: ['Released under the MIT License', 'All Rights Reserved ', `Copyright © 2014-${new Date().getFullYear()} Korey Zhao`],
+    footer: ['Released under the MIT License', 'All Rights Reserved ', `Copyright © 2014-${new Date().getFullYear()} AmbroseRen`],
     overview: {
-      infoList: ['29岁', '本科', '成都', '在职'],
+      infoList: ['27岁', '本科', '杭州', '在职'],
       quote: '生活是一种绵延不绝的渴望，渴望不断上升，变得更伟大而高贵。',
-      desList: ['我叫赵柯宇，前端工程师', '聚美优品（成都）电商&增长团队前端负责人', 'keyu.zhao@foxmail.com']
+      desList: ['我叫任思(AmbroseRen)，前(后Java)端工程师', '喜欢项目构建和CG图形', 'ambroserencn@gmail.com']
     },
     skill: {
       outCircleList: [
@@ -125,7 +125,7 @@ export default {
         }
       ],
       desList: [
-        '六年前端开发经验，两年管理经验',
+        '三年前端开发经验，一年管理经验',
         '实际主导开发过多平台项目（APP，PC，H5，小程序，快应用等），制定并规范团队协作模式',
         '前端技术栈均有尝试，擅长组件开发及构建优化',
         '自我驱动力强，写有webpack、vue等源码分析系列文章'
@@ -252,23 +252,23 @@ export default {
       typeList: [
         {
           icon: sGithub,
-          url: 'https://github.com/zhaoky'
+          url: 'https://github.com/AmbroseRen'
         },
         {
           icon: sSf,
-          url: 'https://segmentfault.com/u/fe_korey'
+          url: 'https://segmentfault.com/u/ambroseren'
         },
         {
           icon: sBlog,
-          url: 'https://blog.flqin.com'
+          url: 'https://ambroseren.github.io'
         },
         {
           icon: sZh,
-          url: 'https://www.zhihu.com/people/fe_korey'
+          url: 'https://www.zhihu.com/people/RS101202303'
         },
         {
           icon: sJj,
-          url: 'https://juejin.im/user/57c91b3b165abd0068db89c2'
+          url: 'https://juejin.cn/user/1653270128624423'
         }
       ]
     }
@@ -299,11 +299,11 @@ export default {
         }
       ]
     },
-    footer: ['Released under the MIT License', 'All Rights Reserved ', `Copyright © 2014-${new Date().getFullYear()} Korey Zhao`],
+    footer: ['Released under the MIT License', 'All Rights Reserved ', `Copyright © 2021-${new Date().getFullYear()} AmbroseRen`],
     overview: {
-      infoList: ['29years', 'B.S.', 'ChengDu', 'On Job'],
+      infoList: ['27years', 'B.S.', 'HangZhou', 'On Job'],
       quote: 'Life is a kind of endless yearning, eager to continue to rise, become more great and noble.',
-      desList: ['I am Korey Zhao, FE engineer', 'Jumei（chengdu）E-commerce & growth team FE leader', 'keyu.zhao@foxmail.com']
+      desList: ['I am AmbroseRen, Java&Web engineer', 'DaMo Data（HangZhou）Engineer', 'ambroserencn@gmail.com']
     },
     skill: {
       outCircleList: [
@@ -383,9 +383,9 @@ export default {
         }
       ],
       desList: [
-        '6 years FE development experience,2 years management experience',
+        '4 years development experience,1 years management experience',
         'Actually lead the development of many platform projects (APP, PC, H5, miniprogram, quickapp, etc.), formulated and standardized the team workflow',
-        'Try different FE technology stacks, Good at component development and construction optimization',
+        'Try different technology stacks, Good at component development and construction optimization',
         'Self-driven, Author of webpack, vue and other source code analysis series articles'
       ]
     },
@@ -540,23 +540,23 @@ export default {
       typeList: [
         {
           icon: sGithub,
-          url: 'https://github.com/zhaoky'
+          url: 'https://github.com/AmbroseRen'
         },
         {
           icon: sSf,
-          url: 'https://segmentfault.com/u/fe_korey'
+          url: 'https://segmentfault.com/u/ambroseren'
         },
         {
           icon: sBlog,
-          url: 'https://blog.flqin.com'
+          url: 'https://ambroseren.github.io'
         },
         {
           icon: sZh,
-          url: 'https://www.zhihu.com/people/fe_korey'
+          url: 'https://www.zhihu.com/people/RS101202303'
         },
         {
           icon: sJj,
-          url: 'https://juejin.im/user/57c91b3b165abd0068db89c2'
+          url: 'https://juejin.cn/user/1653270128624423'
         }
       ]
     }
