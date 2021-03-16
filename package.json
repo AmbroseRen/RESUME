@@ -3,7 +3,7 @@
   "version": "4.0.0",
   "description": "任思的web前端工程师简历",
   "main": "dist/index.html",
-  "homepage": "https://ambroseren.github.io/RESUME",
+  "homepage": "https://ambroseren.github.io/RESUME/",
   "keywords": [
     "web前端",
     "web",
@@ -76,10 +76,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhaoky/flqin.git"
+    "url": "git+https://github.com/AmbroseRen/resume.git"
   },
-  "bugs": "https://github.com/zhaoky/flqin/issues",
-  "author": "Korey <keyu.zhao@foxmail.com>",
+  "bugs": "https://github.com/AmbroseRen/resume/issues",
+  "author": "AmbroseRen <ambroserencn@gmail.com>",
   "license": "MIT",
   "husky": {
     "hooks": {
