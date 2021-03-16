@@ -34,3 +34,21 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+  run:
+    name: Run
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - name: Setup nodejs
+        uses: actions/setup-node@v2-beta
+        with:
+          node-version: '12'
+      - name: Install
+        run: yarn
+      - name: Lint
+        run: yarn lint
+      - name: Build-seo
+        run: yarn build:seo
+      - name: Build
+        run: yarn build
+    
