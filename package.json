@@ -1,9 +1,9 @@
 {
-  "name": "@fe_korey/resume",
+  "name": "@AmbroseRen/resume",
   "version": "4.0.0",
-  "description": "赵柯宇的web前端工程师简历",
+  "description": "任思的web前端工程师简历",
   "main": "dist/index.html",
-  "homepage": "https://resume.flqin.com",
+  "homepage": "https://ambroseren.github.io/resume",
   "keywords": [
     "web前端",
     "web",
