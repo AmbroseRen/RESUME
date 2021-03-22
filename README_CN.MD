@@ -8,7 +8,7 @@
 
 [English](./README.md) | 中文
 
-[原型参考](https://github.com/zhaoky/flqin/actions/workflows/ci.yml) - [默认ci.yml](https://github.com/hughfenghen/hughfenghen.github.io/issues/50) - [实践ci.yml](https://github.com/ruanyf/github-actions-demo/blob/master/.github/workflows/ci.yml)/[文档参考](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)
+[原型参考](https://github.com/zhaoky/flqin/actions/workflows/ci.yml) - [默认ci.yml](https://github.com/hughfenghen/hughfenghen.github.io/issues/50) - [实践ci.yml](https://github.com/ruanyf/github-actions-demo/blob/master/.github/workflows/ci.yml)/[文档参考](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html) - [.yml](https://github.com/hantsy/hantsy.github.io/blob/master/.github/workflows/medium-sync.yml)参考
 
 有任何疑问和建议请[点击此处](https://github.com/AmbroseRen/RESUME/issues)，互相学习，共同进步！
 
