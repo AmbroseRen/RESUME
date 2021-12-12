@@ -135,7 +135,7 @@ export default {
       expList: [
         {
           title: '聚美优品（成都）',
-          time: '2017年4月~至今',
+          time: '2017年~至今',
           post: '资深前端工程师/前端负责人',
           img: {
             backgroundImage: `url(${eJm})`
