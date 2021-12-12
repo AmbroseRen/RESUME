@@ -149,7 +149,7 @@ export default {
           img: {
             backgroundImage: `url(${eLt})`
           },
-          contentList: ['负责系统数据分析模块的数据加载,逻辑功能开发和数据库数据设计','使用技术:基于Spring-Cloud+Nacos+Redis框架。数据库为MySQL','管理工具:使用git管理代码。微服务架构的若依框架开发，前端可视化框架为Vue','高度组件化,模块化思维,拥有平台调试能力']
+          contentList: ['负责企业软件平台搭建', '负责网站后台管理页面开发', '负责内部WebGL模型在web端渲染和管理协同化', '同期工作之余提升自己技术选型和网站架构能力']
         },
         {
           title: '百川建科（天津）',
