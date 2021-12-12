@@ -136,11 +136,11 @@ export default {
         {
           title: '职业规划中',
           time: '至今',
-          post: '',
+          post: 'null',
           img: {
             backgroundImage: `url(${eJm})`
           },
-          contentList: ['', '', '', '']
+          contentList: ['null', 'null', 'null', 'null']
         },
         {
           title: '大漠数据',
