@@ -43,7 +43,7 @@ export default {
     },
     footer: ['Released under the MIT License', 'All Rights Reserved ', `Copyright © 2014-${new Date().getFullYear()} AmbroseRen`],
     overview: {
-      infoList: ['27岁', '本科', '杭州', '在职'],
+      infoList: ['27岁', '本科', '杭州', '求职中'],
       quote: '生活是一种绵延不绝的渴望，渴望不断上升，变得更伟大而高贵。',
       desList: ['我叫任思(AmbroseRen)，前(后Java)端工程师', '喜欢项目构建和CG图形', 'ambroserencn@gmail.com']
     },
